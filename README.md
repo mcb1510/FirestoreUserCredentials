@@ -7,7 +7,7 @@ I created this program to demonstrate the ability to insert, modify, delete, and
 
 Here is a video link of me explaining how this program works.
 
-[User Credentials to Firebase](https://www.youtube.com/watch?v=7_Se6GI-6xM)
+[User Credentials to Firebase](https://youtu.be/wuH2QIH7DTo)
 
 # Cloud Database
 
